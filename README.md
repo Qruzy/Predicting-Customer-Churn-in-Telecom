@@ -1,2 +1,2 @@
-# Predicting-Customer-Churn-in-Telecom
+# Telecom-Customer-Churn-Prediction
 To predict customer churn based on usage patterns, service features, demographics.
